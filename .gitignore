@@ -1,0 +1,18 @@
+# Pasta de módulos do Node.js
+node_modules/
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração local
+.env
+.env.*
+
+# Pastas do VS Code
+.vscode/
+
+# Arquivos de configuração específicos do projeto
+config.js
+
+# Arquivos temporários
+*.tmp
